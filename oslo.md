@@ -1,4 +1,3 @@
-# 2026 - Oslo
 ## Loty
 Balice - Oslo-Gardermoen
 **2026-08-17** 12:25 - 14:30
