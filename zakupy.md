@@ -1,3 +1,3 @@
-- [ ] pieczywo
+- [x] pieczywo
 - [ ] pomidory
 - [ ] krople Hyabak
